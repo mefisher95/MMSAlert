@@ -5,40 +5,40 @@ README
 
 Part I: Init
 
-When using an MMSAlert object for the first time, you may be prompted for 
-a set of specific information to connect to an email account. Before
-entering this data, you will need to allow your email account to be 
-accessed by less secure apps. For our purposes, I recommend the 
-creation of a dummy Gmail account that exists for the sole purpose of
-communicating with the MMSAlert object.
+	When using an MMSAlert object for the first time, you may be prompted for 
+	a set of specific information to connect to an email account. Before
+	entering this data, you will need to allow your email account to be 
+	accessed by less secure apps. For our purposes, I recommend the 
+	creation of a dummy Gmail account that exists for the sole purpose of
+	communicating with the MMSAlert object.
 
-Step 1:
-	Less secue app access
-	- can be found in the Google Account Security tab. Enable to
-	  allow SMTP to access your Gmail
+	Step 1:
+		Less secue app access
+		- can be found in the Google Account Security tab. Enable to
+		  allow SMTP to access your Gmail
 
-Step 2:
-	Enter your Email Address
+	Step 2:
+		Enter your Email Address
 
-Step 3:
-	Enter your Email password
+	Step 3:
+		Enter your Email password
 
-Step 4:
-	Enter your phone number, followed by your MMS Gateway code
-	- This unique to your cell phone provider, and can ve found 
-	  online
-	- Ex: AT&T = mms.att.net
+	Step 4:
+		Enter your phone number, followed by your MMS Gateway code
+		- This unique to your cell phone provider, and can ve found 
+		  online
+		- Ex: AT&T = mms.att.net
 
-Step 5:
-	Enter your Email's SMTP address
-	- This is unique for each email provider, and can be found online
-	- Ex: Gmail's = smtp.gmail.com
+	Step 5:
+		Enter your Email's SMTP address
+		- This is unique for each email provider, and can be found online
+		- Ex: Gmail's = smtp.gmail.com
 
-Step 6:
-	Enter your Email accounts SMTP Port Number
-	- This is unqiue for each email provider, and can be found online
-	- Ex: Gmail has 3: 25, 465, or 587
-	- Try each until one works
+	Step 6:
+		Enter your Email accounts SMTP Port Number
+		- This is unqiue for each email provider, and can be found online
+		- Ex: Gmail has 3: 25, 465, or 587
+		- Try each until one works
 
 Part II: MMSAlert User Methods
 
