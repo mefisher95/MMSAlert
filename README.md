@@ -55,7 +55,7 @@ Part II: MMSAlert User Methods
 	MMSAlert.stop()
 	- Terminates the server connection with your email account
 
-	MMSAlert.sent_message(message, subject=None)
+	MMSAlert.send_message(message, subject=None)
 	- takes in a message as a string and an optional subject line 
 	  as a string. Leave subject set to none to send no subject line
 
